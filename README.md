@@ -12,7 +12,7 @@ Lectures on optimization methods
 7. Introduction to numerical optimization. Gradient descent and lower bounds concept
 8. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
 9. Stochastic first-order methods
-10. Newton and quasi-Newton methods
+10. [Newton and quasi-Newton methods](./10-Newton/lecture10.pdf)
 11. Projected gradient method, Frank-Wolfe method and introduction to proximal methods
 12. Linear programming problem
 13. Semidefinite programming
