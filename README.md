@@ -8,7 +8,7 @@ Lectures on optimization methods
 3. Convex optimization problems
 4. KKT optimality conditions
 5. [Duality](./05-Duality/lecture5.pdf)
-6. [Packages for solving convex optimization problems](./06-ConvexSolvers/lecture6.pdf) + [DCP and ipopt demo](./06-ConvexSolvers/demo.ipynb)
+6. [Packages for solving convex optimization problems](./06-ConvexSolvers/lecture6.pdf) + [DCP and ipopt demo](https://nbviewer.jupyter.org/github/amkatrutsa/optimization-fivt/blob/master/06-ConvexSolvers/demo.ipynb)
 7. Introduction to numerical optimization. Gradient descent and lower bounds concept
 8. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
 9. Stochastic first-order methods
