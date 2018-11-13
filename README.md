@@ -13,7 +13,7 @@ Lectures on optimization methods
 8. [Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods](./08-AccGD/lecture8.pdf)
 9. Stochastic first-order methods
 10. [Newton and quasi-Newton methods](./10-Newton/lecture10.pdf)
-11. Projected gradient method, Frank-Wolfe method and introduction to proximal methods
+11. [Projected gradient method, Frank-Wolfe method and introduction to proximal methods](./11-SimpleSets/lecture11.pdf)
 12. Linear programming problem
 13. Semidefinite programming
 14. Interior point methods and concept of self-concordance functions 
