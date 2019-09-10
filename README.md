@@ -4,7 +4,7 @@ Lectures on optimization methods
 ## Syllabus
 
 1. [Introduction. Convex sets and cones](./01-IntroConvSets/lecture1.pdf)
-2. Convex functions
+2. [Dual cone. Convex functions](./02-ConvexFunctions/lecture2.pdf)
 3. Convex optimization problems
 4. KKT optimality conditions
 5. [Duality](./05-Duality/lecture5.pdf)
