@@ -15,5 +15,5 @@ Lectures on optimization methods
 10. [Newton and quasi-Newton methods](./10-Newton/lecture10.pdf)
 11. [Projected gradient method, Frank-Wolfe method and introduction to proximal methods](./11-SimpleSets/lecture11.pdf)
 12. [Linear programming problem](./12-LinProg/lecture12.pdf)
-13. Semidefinite programming
+13. [Semidefinite programming](./13-SDP/lecture13.pdf)
 14. Interior point methods and concept of self-concordance functions 
