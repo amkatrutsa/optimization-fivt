@@ -1,4 +1,4 @@
-# Optimization methods, Department of Innovation and High Technologies, Fall 2019
+# Optimization methods, Department of Innovation and High Technologies, Fall 2021
 Lectures on optimization methods
 
 ## Syllabus
