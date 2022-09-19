@@ -7,8 +7,8 @@ Lectures on optimization methods and applications
 ## Syllabus
 
 1. [Introduction. Convex sets and cones](./Fall2022/01-IntroConvSets/lecture1.pdf)
-2. [Dual cone. Convex functions](./Fall2022/02-ConvexFunctions/lecture2.pdf)
-3. Automatic differentiation and convex optimization problems
+2. [Dual cone. Automatic differentiation](./Fall2022/02-DualConesAutodiff/lecture2.pdf)
+3. Convex functions and convex optimization problems
 4. KKT optimality conditions and intro to duality
 5. Conic duality intro
 6. Packages for solving convex optimization problems + DCP and ipopt demo
