@@ -11,13 +11,13 @@ Lectures on optimization methods and applications
 3. [Convex functions](./Fall2022/03-ConvexFunc/lecture3.pdf)
 4. [Convex optimization problems](./Fall2022/04-ConvexProblem/lecture4.pdf)
 5. [KKT optimality conditions and intro to duality](./Fall2022/05-KKT/lecture5.pdf)
-6. Conic duality intro
-7. Packages for solving convex optimization problems + DCP and ipopt demo
-8. Introduction to numerical optimization. Gradient descent and lower bounds concept
-9. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
-10. Stochastic first-order methods
-11. Newton and quasi-Newton methods
-12. Projected gradient method, Frank-Wolfe method and introduction to proximal methods
-13. Linear programming problem
-14. Semidefinite programming
-15. Interior point methods and concept of self-concordance functions 
+6. [Conic duality intro](./Fall2022/06-Duality/lecture6.pdf)
+7. Introduction to numerical optimization. Gradient descent and lower bounds concept
+8. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
+9. Stochastic first-order methods
+10. Newton and quasi-Newton methods
+11. Projected gradient method, Frank-Wolfe method and introduction to proximal methods
+12. Linear programming problem
+13. Semidefinite programming
+14. Interior point methods and concept of self-concordance functions 
+15. Packages for solving convex optimization problems + DCP and ipopt demo
