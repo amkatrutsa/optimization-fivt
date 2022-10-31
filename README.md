@@ -11,7 +11,7 @@ Lectures on optimization methods and applications
 3. [Convex functions](./Fall2022/03-ConvexFunc/lecture3.pdf)
 4. [Convex optimization problems](./Fall2022/04-ConvexProblem/lecture4.pdf)
 5. [KKT optimality conditions and intro to duality](./Fall2022/05-KKT/lecture5.pdf)
-6. Conic duality intro
+6. [Conic duality intro](./Fall2022/06-Duality/lecture6.pdf)
 7. Packages for solving convex optimization problems + DCP and ipopt demo
 8. Introduction to numerical optimization. Gradient descent and lower bounds concept
 9. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
