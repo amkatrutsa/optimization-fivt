@@ -13,7 +13,7 @@ Lectures on optimization methods and applications
 5. [KKT optimality conditions and intro to duality](./Fall2022/05-KKT/lecture5.pdf)
 6. [Conic duality intro](./Fall2022/06-Duality/lecture6.pdf)
 7. [Introduction to numerical optimization. Gradient descent and lower bounds concept](./Fall2022/07-GD/lecture7.pdf)
-8. Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods
+8. [Beyond gradient descent: heavy ball, conjugate gradient and fast gradient methods](./Fall2022/08-AccGD/lecture8.pdf)
 9. Stochastic first-order methods
 10. Newton and quasi-Newton methods
 11. Projected gradient method, Frank-Wolfe method and introduction to proximal methods
