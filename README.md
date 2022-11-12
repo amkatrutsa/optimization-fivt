@@ -17,7 +17,5 @@ Lectures on optimization methods and applications
 9. Stochastic first-order methods
 10. Newton and quasi-Newton methods
 11. Projected gradient method, Frank-Wolfe method and introduction to proximal methods
-12. Linear programming problem
-13. Semidefinite programming
-14. Interior point methods and concept of self-concordance functions 
-15. Packages for solving convex optimization problems + DCP and ipopt demo
+12. Semidefinite programming
+13. Packages for solving convex optimization problems + DCP and ipopt demo
